@@ -1,4 +1,4 @@
-# GIS-based-Approach-
+# GIS-based-Approach-Siting-TSD-Facilities
 Regional Framework Towards Establishing Treatment, Storage, and Disposal (TSD) Facilities for PV Waste Management in the Philippines: A Case Study of Laguna Province
 
 **Keywords:** GIS, optimization framework, proximity analysis, PV module waste, TSD facility
